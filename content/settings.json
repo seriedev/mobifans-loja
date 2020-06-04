@@ -1,12 +1,12 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
-  "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
-  "description": "My PWA Shop",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "store_id": 1108,
+  "name": "Mobifans",
+  "domain": "mobifans-loja.netlify.app",
+  "short_name": "mobifans",
+  "description": "mobifans",
+  "primary_color": "#333333",
+  "secondary_color": "#7a1213",
+  "bg_color": "#f1f1f1",
   "theme": {
     "bootswatch": "_"
   },
