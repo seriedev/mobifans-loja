@@ -62,6 +62,9 @@ if (header.categories_list) {
       <div class="row">
         <div class="col">
           <nav class="top-bar__page-links">
+            <a href="mailto:contato@mobifans.com.br" target="_blank" rel="noopener">
+                  contato@mobifans.com.br
+            </a>
             <% if (header.contacts_stripe.pages) { %>
               <% header.contacts_stripe.pages.forEach(({ link, title }) => { %>
                 <a href="<%= link %>"><%= title %></a>
@@ -92,6 +95,9 @@ if (header.categories_list) {
               </a>
             <% } %>
           <% } %>
+        </div>
+        <div class="col">
+          <img src="/img/uploads/logo_mobifans.png" alt="Mobifans" text="Mobifans" style="width: 100px">
         </div>
         <% if (header.contacts_stripe.socials) { %>
           <div class="col-auto">

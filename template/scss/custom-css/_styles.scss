@@ -1,1 +1,21 @@
 // Add your custom CSS here.
+.top-bar {
+  background: #000;
+}
+#header {
+  background: #fff;
+}
+#user-button svg, #cart-button svg, .header__search-btn svg, .header__toggler svg {
+  color: #000
+}
+#cart-count {
+  background: #000;
+}
+.top-bar a, .top-bar svg {
+  color: #fff
+}
+.top-bar .container-fluid .row {
+  display: flex;
+  justify-content: space-between;
+  vertical-align: center;
+}

@@ -7,23 +7,64 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/Banners-Site-Mobi-1.png",
+          "mobile_img": "/img/uploads/Site-Mobile-Home1.png",
+          "link": "/"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
           "start": "",
-          "end": ""
+          "end": "",
+          "img": "/img/uploads/Banners-Site-Mobi-2.png",
+          "mobile_img": "/img/uploads/Site-Mobile-Home2.png",
+          "link": "/"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/Banners-Site-Mobi-3.png",
+          "mobile_img": "/img/uploads/Site-Mobile-Home3.png",
+          "link": "/"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/Banners-Site-Mobi-4.png",
+          "mobile_img": "/img/uploads/Site-Mobile-Home4.png",
+          "link": "/"
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/Banner-Produtos-mobi-01.png",
+          "link": "/"
+        },
+        {
+          "img": "/img/uploads/Banner-Produtos-mobi-02.png",
+          "link": "/"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/Banner-Produtos-mobi-03.png",
+          "link": "/"
+        },
+        {
+          "img": "/img/uploads/Banner-Produtos-mobi-04.png",
+          "link": "/"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
