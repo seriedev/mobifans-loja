@@ -9,12 +9,12 @@
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categories",
     "list": []
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Contato",
     "phone_wpp": true,
     "socials": true,
     "email": true,
