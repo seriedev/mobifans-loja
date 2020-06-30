@@ -36,7 +36,9 @@
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
-
+#footer-pages {
+  display: block
+}
 }
 .header__nav a {
   padding-right: 1rem;
