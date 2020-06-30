@@ -67,6 +67,21 @@
       ]
     },
     {
+      "type": "custom-content",
+      "markdown": "<center>**Siga-nos no Instagram!**</center>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-instagram-mobi-01.png",
+          "mobile_img": "/img/uploads/banner-instagram-mobi-02.png",
+          "alt": "Instagram Mobifans",
+          "link": "https://instagram.com/mobifans/"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
