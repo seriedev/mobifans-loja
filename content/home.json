@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Mobifans - Capas, películas e acessórios para Smartphones e Tablets.",
+  "meta_description": "Mobifans - Capas, películas e acessórios para celulares e tablets. Acessórios para smartphones iphone, samsung e toda linha Android, com cabos, fones de ouvidos, power bank e mais. Estamos em Porto Alegre, Novo Hamburgo e Santa Maria.",
   "sections": [
     {
       "type": "banner-slider",
@@ -11,7 +11,8 @@
           "end": "",
           "img": "/img/uploads/Banners-Site-Mobi-1.png",
           "mobile_img": "/img/uploads/Site-Mobile-Home1.png",
-          "link": "/"
+          "link": "/",
+          "alt": ""
         },
         {
           "start": "",
@@ -45,11 +46,13 @@
       "banners": [
         {
           "img": "/img/uploads/Banner-Produtos-mobi-01.png",
-          "link": "/"
+          "link": "/colecoes",
+          "alt": "Capas para Celulares"
         },
         {
           "img": "/img/uploads/Banner-Produtos-mobi-02.png",
-          "link": "/"
+          "link": "/seed-eco-case",
+          "alt": "Capas para Celular Seed Biodegradável"
         }
       ]
     },
