@@ -1,7 +1,7 @@
 {
   "shipping": {
-    "show": false,
-    "text": "Entregamos para todo o Brasil"
+    "show": true,
+    "text": "Frete grátis todo RS"
   },
   "installments": {
     "show": false,
@@ -12,7 +12,7 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": false,
-    "text": "Diferentes promoções ao longo do ano!"
+    "show": true,
+    "text": "Na compra de 2 itens ou mais no mesmo pedido leva um brinde!"
   }
 }
