@@ -4,13 +4,26 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "list_pages": false,
+    "title": "",
+    "list": [
+      {
+        "text": "Sobre a Mobifans",
+        "url": "/pages/sobre"
+      },
+      {
+        "text": "Política de Privacidade",
+        "url": "/pages/privacidade"
+      },
+      {
+        "text": "Contato",
+        "url": "/pages/contato"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": false,
-    "title": "",
+    "list_categories": true,
+    "title": "Categorias",
     "list": []
   },
   "contacts": {
@@ -22,25 +35,23 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
     }
   ],
   "payment_methods": {
-    "bb": true,
-    "visa": true,
-    "boleto": true,
+    "bb": false,
+    "visa": false,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
-    "mastercard": true,
+    "mastercard": false,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": "Luke Comércio de Importados Eireli - CNPJ: 14.450.859/0005-30 © 2020 Todos os direitos reservados "
 }
