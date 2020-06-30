@@ -61,11 +61,13 @@
       "banners": [
         {
           "img": "/img/uploads/Banner-Produtos-mobi-03.png",
-          "link": "/"
+          "link": "/peliculas",
+          "alt": "Películas para Celular"
         },
         {
           "img": "/img/uploads/Banner-Produtos-mobi-04.png",
-          "link": "/"
+          "link": "/acessorios",
+          "alt": "Acessórios para Celular"
         }
       ]
     },
