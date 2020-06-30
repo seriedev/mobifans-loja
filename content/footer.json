@@ -18,6 +18,10 @@
       {
         "text": "Contato",
         "url": "/pages/contato"
+      },
+      {
+        "text": "Condições de Entrega",
+        "url": "/pages/entrega"
       }
     ]
   },
