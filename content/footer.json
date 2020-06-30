@@ -12,14 +12,6 @@
         "url": "/pages/sobre"
       },
       {
-        "text": "Política de Privacidade",
-        "url": "/pages/privacidade"
-      },
-      {
-        "text": "Contato",
-        "url": "/pages/contato"
-      },
-      {
         "text": "Condições de Entrega",
         "url": "/pages/entrega"
       },
@@ -36,8 +28,16 @@
         "text": "Formas de Pagamento"
       },
       {
+        "text": "Política de Privacidade",
+        "url": "/pages/privacidade"
+      },
+      {
         "text": "Onde nos encontrar",
         "url": "/pages/sobre"
+      },
+      {
+        "text": "Contato",
+        "url": "/pages/contato"
       }
     ]
   },
