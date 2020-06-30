@@ -76,3 +76,7 @@ body, h4, h3, h2, h1, h5, h6, li, ul, a, b, strong, em, span {
 .collection-shelf .product-card__name, .collection-shelf .product-card__prices, .category-retail .product-card__name, .category-retail .product-card__prices, .page--search .product-card__name, .page--search .product-card__prices {
   text-align: center;
 }
+#page-pages\/sobre .extra-page .container {
+  max-width: 100% !important;
+  width: 100%
+}
