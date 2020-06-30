@@ -82,3 +82,6 @@ body, h4, h3, h2, h1, h5, h6, li, ul, a, b, strong, em, span {
   max-width: 100% !important;
   width: 100%
 }
+.variations__grid--modelo option:disabled {
+  display: none;
+}
