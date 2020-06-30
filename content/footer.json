@@ -22,6 +22,22 @@
       {
         "text": "Condições de Entrega",
         "url": "/pages/entrega"
+      },
+      {
+        "text": "Trocas e Devoluções",
+        "url": "/pages/trocas"
+      },
+      {
+        "text": "FAQ",
+        "url": "/pages/faq"
+      },
+      {
+        "url": "/pages/pagamentos",
+        "text": "Formas de Pagamento"
+      },
+      {
+        "text": "Onde nos encontrar",
+        "url": "/pages/sobre"
       }
     ]
   },
