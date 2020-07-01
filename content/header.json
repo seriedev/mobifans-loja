@@ -6,8 +6,8 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "",
-        "link": ""
+        "title": "Sobre nós",
+        "link": "/pages/sobre"
       },
       {
         "title": "",
