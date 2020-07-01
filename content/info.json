@@ -1,18 +1,18 @@
 {
   "shipping": {
-    "show": true,
+    "show": false,
     "text": "Frete grátis todo RS"
   },
   "installments": {
-    "show": true,
+    "show": false,
     "text": "Parcele sem juros"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
     "show": true,
-    "text": "Na compra de 2 itens ou mais no mesmo pedido leva um brinde!"
+    "text": "Na compra de 2 itens ou mais no mesmo pedido leve um brinde!"
   }
 }
