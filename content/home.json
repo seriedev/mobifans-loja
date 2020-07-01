@@ -19,27 +19,30 @@
           "end": "",
           "img": "/img/uploads/Banners-Site-Mobi-2.png",
           "mobile_img": "/img/uploads/Site-Mobile-Home2.png",
-          "link": "/"
+          "link": "/pages/sobre",
+          "alt": "Sobre a Mobifans"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/Banners-Site-Mobi-3.png",
           "mobile_img": "/img/uploads/Site-Mobile-Home3.png",
-          "link": "/"
+          "link": "/acessorios",
+          "alt": "Combinar com o look"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/Banners-Site-Mobi-4.png",
           "mobile_img": "/img/uploads/Site-Mobile-Home4.png",
-          "link": "/"
+          "link": "/protecao-militar",
+          "alt": "Proteções exclusivas"
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "banners-grid",
