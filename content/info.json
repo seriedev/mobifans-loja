@@ -12,7 +12,7 @@
     "text": "Não gostou? A primeira troca é gratuita"
   },
   "promo": {
-    "show": true,
-    "text": "Na compra de 2 itens ou mais no mesmo pedido leve um brinde!"
+    "show": false,
+    "text": "Na compra de 2 itens ou mais no mesmo pedido, leve um brinde!"
   }
 }
