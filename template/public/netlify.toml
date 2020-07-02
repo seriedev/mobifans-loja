@@ -1,0 +1,17 @@
+[[redirects]]
+ from = "/pagina/sobre"
+ to = "/pages/sobre"
+ status = 301
+ force = true
+ 
+ [[redirects]]
+ from = "/contato"
+ to = "/pages/contato"
+ status = 301
+ force = true
+ 
+[[redirects]]
+ from = "/pagina/privacidade"
+ to = "/pages/privacidade"
+ status = 301
+ force = true
