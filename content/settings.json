@@ -1,6 +1,8 @@
 {
   "store_id": 1108,
   "domain": "mobifans.com.br",
+  "name": "Mobifans",
+  "short_name": "Mobifans",
   "currency_symbol": "R$",
   "primary_color": "#000",
   "theme": {
@@ -9,8 +11,6 @@
   },
   "bg_color": "#fff",
   "logo": "/img/uploads/logo.png",
-  "name": "Mobifans",
-  "short_name": "Mobifans",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/minilogo.jpg",
