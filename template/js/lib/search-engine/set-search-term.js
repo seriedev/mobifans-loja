@@ -1,15 +1,58 @@
 import * as merge from 'lodash.merge'
 
 export default (self, term) => {
+  const words = (term || '').split(/\s+/).map(word => {
+    switch (word) {
+      case 'iphone':
+        return 'iPhone'
+      case 'x':
+      case 'x/xs':
+        return 'X/XS'
+      case 'xs':
+        return 'XS'
+      case 'xl':
+        return 'XL'
+      case 'a20':
+      case 'a30':
+      case 'a20/a30':
+        return 'A20/A30'
+      default:
+        return word.charAt(0).toUpperCase() + word.substr(1)
+    }
+  })
+
   // match name and/or keyword with term
   // https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-multi-match-query.html
   self.mergeFilter({
-    multi_match: {
-      query: term,
-      fields: [
-        'name',
-        'keywords',
-        'variations.name'
+    bool: {
+      should: [
+        {
+          multi_match: {
+            query: term,
+            fields: [
+              'name',
+              'keywords'
+            ]
+          }
+        },
+        {
+          bool: {
+            must: {
+              nested: {
+                path: 'specs',
+    						query: {
+                  terms: {
+                    'specs.text': [
+                      words.join(' ').replace(/(samsung|apple|motorola|lg|xiaomi|huawei)\s/ig, ''),
+                      ...words
+                    ]
+                  }
+                }
+              }
+            },
+            boost: 3.5
+          }
+        }
       ]
     }
   }, 'must')
@@ -22,7 +65,7 @@ export default (self, term) => {
       text: term,
       words: {
         term: {
-          field: 'variations.name'
+          field: 'name'
         }
       }
     }
