@@ -1,3 +1,18 @@
+[[redirects]]
+  from = "/pagina/sobre"
+  to = "/pages/sobre"
+  status = 301
+
+[[redirects]]
+  from = "/contato"
+  to = "/pages/contato"
+  status = 301
+
+[[redirects]]
+  from = "/pagina/privacidade"
+  to = "/pages/privacidade"
+  status = 301
+
 [build]
   publish = "publish"
   functions = "functions-zip"
