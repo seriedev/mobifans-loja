@@ -1,6 +1,18 @@
 {
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner_mobifans_bf_02.png",
+          "link": "https://mobifans.com.br/black-friday-mobifans---ate-70-off"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
