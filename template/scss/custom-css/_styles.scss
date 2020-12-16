@@ -115,3 +115,27 @@ body, h4, h3, h2, h1, h5, h6, li, ul, a, b, strong, em, span {
 .fa-facebook::before {
     content: "\e83b" !important;
 }
+.fa-arrow-down::before {
+    content: "\e80f" !important;
+}
+.fa-twitter::before {
+    content: "\e841" !important;
+}
+.fa-envelope::before {
+    content: "\e816" !important;
+}
+.fa-pinterest::before {
+    content: "\e840" !important;
+}
+.fa-telegram::before {
+    content: "\e845" !important;
+}
+.fa-home::before {
+    content: "\e820" !important;
+}
+.fa-chevron-down::before {
+    content: "\e80c" !important;
+}
+.footer__links .fas.fa-angle-right{
+display: none
+}
