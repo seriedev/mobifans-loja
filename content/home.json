@@ -17,6 +17,14 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-desk-2.jpg",
+          "mobile_img": "/img/uploads/banner-mobile-2.jpg",
+          "link": "https://mobifans.com.br/acessorios",
+          "alt": "Easy2020"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/Banners-Site-Mobi-2.png",
           "mobile_img": "/img/uploads/Site-Mobile-Home2.png",
           "link": "/pages/sobre",
