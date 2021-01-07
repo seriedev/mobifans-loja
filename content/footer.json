@@ -57,7 +57,7 @@
     {}
   ],
   "payment_methods": {
-    "bb": false,
+    "bb": true,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -65,14 +65,14 @@
     "elo": true,
     "hipercard": true,
     "hsbc": false,
-    "bradesco": false,
+    "bradesco": true,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "diners": true,
     "mais": false,
     "amex": true,
-    "itau": false
+    "itau": true
   },
   "credits": "Pulz Comércio de Importados Eireli - CNPJ: 06.051.394/0001-93 © 2020 Todos os direitos reservados "
 }
