@@ -139,3 +139,18 @@ body, h4, h3, h2, h1, h5, h6, li, ul, a, b, strong, em, span {
 .footer__links .fas.fa-angle-right{
 display: none
 }
+.pay-icon--visa {
+  content: url(/img/uploads/i_visa.png);
+}
+.pay-icon--boleto {
+  content: url(/img/uploads/i_boleto.png);
+}
+.pay-icon--elo {
+  content: url(/img/uploads/i_elo.png);
+}
+.pay-icon--hipercard {
+  content: url(/img/uploads/hipercard.png);
+}
+.pay-icon--mastercard {
+  content: url(/img/uploads/i_mastercard.png);
+}
