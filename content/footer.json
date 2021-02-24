@@ -72,7 +72,7 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
-    "hiper": false,
+    "hiper": true,
     "diners": false,
     "mais": false,
     "amex": true,
