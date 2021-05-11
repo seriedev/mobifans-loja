@@ -43,6 +43,14 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "https://i.imgur.com/T9ICd8U.png"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/Banner-Produtos-mobi-01.png",
           "link": "/colecoes",
           "alt": "Capas para Celulares"
