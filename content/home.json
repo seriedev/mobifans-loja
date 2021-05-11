@@ -35,7 +35,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<!--StartFragment-->\n\nSomos especialistas em melhorar sua experiência de uso das tecnologias mobile. Somos especialistas em smartphones e em smartphonelovers.\n\n<!--EndFragment-->"
+      "markdown": "**<!--StartFragment-->**\n\n**Somos especialistas em melhorar sua experiência de uso das tecnologias mobile. Somos especialistas em smartphones e em smartphonelovers.**\n\n**<!--EndFragment-->**"
     },
     {
       "type": "banners-grid",
