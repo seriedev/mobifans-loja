@@ -25,27 +25,8 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2021-05-11T14:39:04.220Z",
-          "end": "2021-05-11T14:39:04.258Z",
-          "img": "https://i.imgur.com/T9ICd8U.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "https://i.imgur.com/T9ICd8U.png"
-        }
-      ]
     },
     {
       "type": "banners-grid",
