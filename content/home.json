@@ -56,7 +56,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "<center><strong>Siga-nos no Instagram!</strong></center>"
+      "markdown": "##### <center><strong>Siga-nos no Instagram!</strong></center>"
     },
     {
       "type": "banners-grid",
