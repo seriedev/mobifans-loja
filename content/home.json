@@ -55,13 +55,13 @@
       ]
     },
     {
-      "type": "custom-content",
-      "markdown": "##### <center><strong>Siga-nos no Instagram!</strong></center>"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
+    },
+    {
+      "type": "custom-content",
+      "markdown": "##### <center><strong>Siga-nos no Instagram!</strong></center>"
     },
     {
       "type": "banners-grid",
