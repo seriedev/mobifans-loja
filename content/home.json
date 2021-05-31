@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 4000,
       "slides": [
         {
           "start": "",
@@ -12,7 +12,7 @@
           "img": "/img/uploads/banner-mobi-desk-2.png",
           "link": "/popsockets",
           "alt": "2020sucks",
-          "mobile_img": "https://i.imgur.com/9ASnc9G.png"
+          "mobile_img": "https://i.imgur.com/w0mVRjE.png"
         },
         {
           "start": "",
@@ -20,7 +20,7 @@
           "img": "/img/uploads/banner-mobi-desk-4.png",
           "alt": "cool2021",
           "link": "/capas-antibacteria",
-          "mobile_img": "https://i.imgur.com/RNKtbl3.png"
+          "mobile_img": "https://i.imgur.com/KAyY7AY.png"
         }
       ]
     },
