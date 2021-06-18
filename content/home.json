@@ -66,10 +66,10 @@
       "shuffle": true,
       "limit": 13,
       "page": 1,
-      "collection_id": "60ca4ace641ad82fcc2a289e:collections:Acessórios 2021:/acessorios-2021",
+      "collection_id": "60ca4ace641ad82fcc2a289e:collections:Acessórios + Vendidos:/acessorios-mais-vendidos",
       "sort": "news",
-      "link": "Acessórios + Vendidos ",
-      "title": "Acessórios + Vendidos"
+      "link": "",
+      "title": ""
     },
     {
       "type": "custom-content",
