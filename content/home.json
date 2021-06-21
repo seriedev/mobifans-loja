@@ -72,6 +72,15 @@
       "title": "Acessórios +Vendidos"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": "",
+      "page": "",
+      "sort": "slug",
+      "collection_id": "5ef1025114ff772fde7aaaef:categories:Artes Exclusivas:/artes-exclusivas",
+      "title": "Artes Exclusivas e Tendências"
+    },
+    {
       "type": "custom-content",
       "markdown": "###    Siga-nos no Instagram! [@mobifans](https://www.instagram.com/mobifans/)"
     },
