@@ -66,10 +66,10 @@
       "shuffle": true,
       "limit": 13,
       "page": 1,
-      "collection_id": "60ca4ace641ad82fcc2a289e:collections:Acessórios + Vendidos:/acessorios-mais-vendidos",
+      "collection_id": "60ca4ace641ad82fcc2a289e:collections:Acessórios +Vendidos:/acessorios-mais-vendidos",
       "sort": "news",
       "link": "",
-      "title": "Acessórios+ Vendidos"
+      "title": "Acessórios +Vendidos"
     },
     {
       "type": "custom-content",
