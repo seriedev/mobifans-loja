@@ -64,8 +64,8 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 13,
-      "page": 1,
+      "limit": 20,
+      "page": 4,
       "collection_id": "60ca4ace641ad82fcc2a289e:collections:Acessórios +Vendidos:/acessorios-mais-vendidos",
       "sort": "news",
       "link": "",
