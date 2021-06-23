@@ -32,6 +32,10 @@
       "title": "Capas e Películas Exclusivas "
     },
     {
+      "type": "custom-content",
+      "markdown": "<div class=\"collectionID\"><h2 class=\"my-0\"><div style=\"text-align:center\">Confira nossas Coleções</h2></div>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
