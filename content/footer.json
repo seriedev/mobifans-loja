@@ -55,8 +55,11 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/google.png",
+      "src": "https://i.imgur.com/RxVM87b.png",
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=mobifans.com.br"
+    },
+    {
+      "src": "https://i.imgur.com/l7i8Aqh.png"
     }
   ],
   "payment_methods": {
