@@ -77,7 +77,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": "",
       "page": "",
       "sort": "slug",
