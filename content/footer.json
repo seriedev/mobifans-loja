@@ -75,8 +75,8 @@
     "santander": false,
     "mastercard": true,
     "citibank": false,
-    "hiper": false,
-    "diners": false,
+    "hiper": true,
+    "diners": true,
     "mais": false,
     "amex": true,
     "itau": false
