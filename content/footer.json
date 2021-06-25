@@ -59,7 +59,8 @@
       "link": "https://transparencyreport.google.com/safe-browsing/search?url=mobifans.com.br"
     },
     {
-      "src": "https://i.imgur.com/l7i8Aqh.png"
+      "src": "https://i.imgur.com/l7i8Aqh.png",
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=mobifans.com.br"
     }
   ],
   "payment_methods": {
