@@ -3554,13 +3554,13 @@
     </url>
   
     <url>
-      <loc>https://mobifans.com.br/app/index</loc>
+      <loc>https://mobifans.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://mobifans.com.br/admin/index</loc>
+      <loc>https://mobifans.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
