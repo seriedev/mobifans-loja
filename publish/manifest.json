@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.19b7242141d8bd77bcf0f36cfe610958.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.032489b5442385eb1f033ba14c422562.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7d43dc24747d421348a5c032911c70b5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.0703afa92e1f08b0e3aece4f0834e9db.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.4039c81742effdeae28f3babcdc20f06.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Mobifans",
+  "short_name": "Mobifans",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Mobifans - Capas, películas e acessórios para Smartphones e Tablets. Porto Alegre, Novo Hamburgo e Santa Maria.",
+  "background_color": "#fff",
+  "theme_color": "#000"
+}
