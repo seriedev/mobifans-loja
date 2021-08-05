@@ -39,14 +39,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/Banner-Produtos-mobi-01.png",
+          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-01.webp",
           "link": "/colecoes",
-          "alt": "Capas para Celulares"
+          "alt": "Capas para Celulares",
+          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-01__.webp"
         },
         {
-          "img": "/img/uploads/Banner-Produtos-mobi-02.png",
+          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-02.webp",
           "link": "/capas-biodegradaveis",
-          "alt": "Capas para Celular Seed Biodegradável"
+          "alt": "Capas para Celular Seed Biodegradável",
+          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-02__.webp"
         }
       ]
     },
