@@ -56,14 +56,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/Banner-Produtos-mobi-03.png",
+          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-03.webp",
           "link": "/peliculas",
-          "alt": "Películas para Celular"
+          "alt": "Películas para Celular",
+          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-03__.webp"
         },
         {
-          "img": "/img/uploads/Banner-Produtos-mobi-04.png",
+          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-04.webp",
           "link": "/acessorios",
-          "alt": "Acessórios para Celular"
+          "alt": "Acessórios para Celular",
+          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-04__.webp"
         }
       ]
     },
