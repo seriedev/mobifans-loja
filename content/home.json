@@ -39,16 +39,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-01__.webp",
+          "img": "/img/uploads/anyconv.com__banner-comprar-capas.webp",
           "link": "/colecoes",
           "alt": "Capas para Celulares",
-          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-01__.webp"
+          "mobile_img": "/img/uploads/anyconv.com__banner-comprar-capas.webp"
         },
         {
-          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-02__.webp",
-          "link": "/capas-biodegradaveis",
-          "alt": "Capas para Celular Seed Biodegradável",
-          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-02__.webp"
+          "img": "/img/uploads/anyconv.com__banner-comprar-peliculas.webp",
+          "link": "/u_10011",
+          "alt": "Películas",
+          "mobile_img": "/img/uploads/anyconv.com__banner-comprar-peliculas.webp"
         }
       ]
     },
