@@ -56,16 +56,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-03__.webp",
-          "link": "/peliculas",
-          "alt": "Películas para Celular",
-          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-03__.webp"
+          "img": "/img/uploads/anyconv.com__banner-comprar-acessorios.webp",
+          "link": "/acessorios",
+          "alt": "Acessórios",
+          "mobile_img": "/img/uploads/anyconv.com__banner-comprar-acessorios.webp"
         },
         {
-          "img": "/img/uploads/anyconv.com__banner-produtos-mobi-04__.webp",
-          "link": "/acessorios",
-          "alt": "Acessórios para Celular",
-          "mobile_img": "/img/uploads/anyconv.com__banner-produtos-mobi-04__.webp"
+          "img": "/img/uploads/anyconv.com__banner-comprar-biodegradaveis.webp",
+          "link": "",
+          "alt": "Capas Bio",
+          "mobile_img": "/img/uploads/anyconv.com__banner-comprar-biodegradaveis.webp"
         }
       ]
     },
