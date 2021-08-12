@@ -60,7 +60,8 @@
     },
     {
       "src": "https://i.imgur.com/l7i8Aqh.png",
-      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=mobifans.com.br"
+      "link": "https://www.ssllabs.com/ssltest/analyze.html?d=mobifans.com.br",
+      "alt": " "
     }
   ],
   "payment_methods": {
