@@ -1,8 +1,5 @@
 {
-  "store_id": 1108,
   "domain": "mobifans.com.br",
-  "name": "Mobifans",
-  "short_name": "Mobifans",
   "currency_symbol": "R$",
   "primary_color": "#000",
   "theme": {
@@ -11,13 +8,16 @@
   },
   "bg_color": "#fff",
   "logo": "/img/uploads/logo.png",
+  "name": "Mobifans",
+  "short_name": "Mobifans",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/minilogo.jpg",
-  "favicon": "/img/uploads/favicon.ico",
+  "favicon": "/img/uploads/favicon.png",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/logo.png",
+  "store_id": 1108,
   "description": "Mobifans - Capas, películas e acessórios para Smartphones e Tablets. Porto Alegre, Novo Hamburgo e Santa Maria.",
   "large_icon": "/img/uploads/logo.png"
 }
