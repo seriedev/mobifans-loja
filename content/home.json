@@ -72,16 +72,6 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 24,
-      "page": "",
-      "collection_id": "60ca4ace641ad82fcc2a289e:collections:Acessórios +Vendidos:/acessorios-mais-vendidos",
-      "sort": "sales",
-      "link": "",
-      "title": "Acessórios +Vendidos"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
       "limit": "",
       "page": "",
       "sort": "slug",
