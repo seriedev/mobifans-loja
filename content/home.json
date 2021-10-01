@@ -43,7 +43,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": "",
+      "limit": 4,
       "page": "",
       "collection_id": "5ef1021d14ff772fde7aaa82:categories:Películas:/u_10011",
       "title": "Películas Especiais",
