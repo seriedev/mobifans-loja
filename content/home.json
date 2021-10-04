@@ -58,15 +58,6 @@
       "sort": "views"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": "",
-      "page": "",
-      "collection_id": "5fc4efcb69274c73fcde9129:categories:PopSockets:/popsockets",
-      "sort": "views",
-      "title": "PopSockets®, o Original chegou!"
-    },
-    {
       "type": "custom-content",
       "markdown": "<div class=\"collectionID\"><h2 class=\"my-0\"><div style=\"text-align:center\">Confira nossas Coleções</h2></div>"
     },
@@ -103,6 +94,15 @@
           "mobile_img": "/img/uploads/anyconv.com__banner-comprar-biodegradaveis.webp"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": "",
+      "page": "",
+      "collection_id": "5fc4efcb69274c73fcde9129:categories:PopSockets:/popsockets",
+      "sort": "views",
+      "title": "PopSockets®, o Original chegou!"
     },
     {
       "type": "collection-shelf",
