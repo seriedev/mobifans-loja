@@ -43,9 +43,18 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
+      "limit": 4,
+      "page": "",
+      "collection_id": "5ef1021d14ff772fde7aaa82:categories:Películas:/u_10011",
+      "title": "Películas Especiais",
+      "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
       "limit": 24,
       "collection_id": "6157169128ace502ae90d2be:categories:Capas com corrente:/capas-com-corrente",
-      "sort": "news"
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -92,15 +101,6 @@
           "mobile_img": "/img/uploads/anyconv.com__banner-comprar-biodegradaveis.webp"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 4,
-      "page": "",
-      "collection_id": "5ef1021d14ff772fde7aaa82:categories:Películas:/u_10011",
-      "title": "Películas Especiais",
-      "sort": "views"
     },
     {
       "type": "collection-shelf",
