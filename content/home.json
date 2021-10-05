@@ -36,7 +36,6 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": "",
       "collection_id": "6157169128ace502ae90d2be:categories:Capas com corrente:/capas-com-corrente",
       "sort": "news"
     },
@@ -53,7 +52,7 @@
       "shuffle": false,
       "collection_id": "60ca5077641ad82fcc2a2e9f:collections:Capas Exclusivas:/capas-e-peliculas-exclusivas",
       "sort": "offers",
-      "title": "Capas Exclusivas ",
+      "title": "Capas Exclusivas",
       "limit": 24
     },
     {
