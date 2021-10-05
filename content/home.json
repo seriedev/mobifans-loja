@@ -35,7 +35,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": "",
+      "limit": 24,
       "page": "",
       "collection_id": "6157169128ace502ae90d2be:categories:Capas com corrente:/capas-com-corrente",
       "sort": "news"
