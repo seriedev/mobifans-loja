@@ -36,16 +36,16 @@
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "collection_id": "6157169128ace502ae90d2be:categories:Capas com corrente:/capas-com-corrente",
-      "sort": "news"
+      "page": "",
+      "collection_id": "5ef1021e14ff772fde7aaa85:categories:Acessórios:/acessorios",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
-      "page": "",
-      "collection_id": "5ef1021e14ff772fde7aaa85:categories:Acessórios:/acessorios",
-      "sort": "sales"
+      "collection_id": "6157169128ace502ae90d2be:categories:Capas com corrente:/capas-com-corrente",
+      "sort": "news"
     },
     {
       "type": "collection-shelf",
