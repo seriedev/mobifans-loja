@@ -9,6 +9,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/banner-site-new-desk-antiblue2.png",
+          "mobile_img": "/img/uploads/banner-site-new-mobile-antiblue2.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/mobi-desk.jpg",
           "link": "/black-friday-mobifans",
           "mobile_img": "/img/uploads/mobi-mobile.jpg"
