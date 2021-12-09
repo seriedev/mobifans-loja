@@ -9,15 +9,40 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/mobi-banner-desk-natal-2.jpg",
+          "mobile_img": "/img/uploads/mobi-banner-mobile-natal-2.jpg",
+          "link": "https://mobifans.com.br/colecoes",
+          "alt": "NatalMobi2021"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/anyconv.com__promo-banners-mobi-desk.webp",
           "mobile_img": "/img/uploads/anyconv.com__promo-banners-mobi-mobile.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-site-new-desk-antiblue2.png",
-          "mobile_img": "/img/uploads/banner-site-new-mobile-antiblue2.png",
-          "link": "/pelicula-antiblue-vidro-3d"
+          "img": "/img/uploads/mobi-banner-desk-institucional-3.jpg",
+          "mobile_img": "/img/uploads/mobi-banner-mobile-institucional-3.jpg",
+          "link": "https://mobifans.com.br/popsockets",
+          "alt": ""
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mobi-banner-desk-natal-1.jpg",
+          "link": "https://mobifans.com.br/capas",
+          "alt": "MobiSmart2021",
+          "mobile_img": "/img/uploads/mobi-banner-mobile-natal-1.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/mobi-banner-desk-antiblue-1.jpg",
+          "alt": "MobiProtect2021",
+          "link": "https://mobifans.com.br/pelicula-antiblue-vidro-3d",
+          "mobile_img": "/img/uploads/mobi-banner-mobile-antiblue-1.jpg"
         },
         {
           "start": "",
@@ -26,22 +51,6 @@
           "mobile_img": "/img/uploads/anyconv.com__banner-mobile-02jpg.webp",
           "link": "/capas-com-corrente",
           "alt": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/anyconv.com__banner-mobi-desk-2.webp",
-          "link": "/popsockets",
-          "alt": "2020sucks",
-          "mobile_img": "/img/uploads/anyconv.com__0ndkjhu.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/anyconv.com__banner-mobi-desk-4.webp",
-          "alt": "cool2021",
-          "link": "/capas-antibacteria",
-          "mobile_img": "/img/uploads/banner-mobile-1ok.jpg"
         }
       ]
     },
