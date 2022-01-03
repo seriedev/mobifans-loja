@@ -9,20 +9,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/mobi-banner-desk-natal-2.jpg",
-          "mobile_img": "/img/uploads/mobi-banner-mobile-natal-2.jpg",
-          "link": "https://mobifans.com.br/colecoes",
-          "alt": "NatalMobi2021"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/anyconv.com__promo-banners-mobi-desk.webp",
-          "mobile_img": "/img/uploads/anyconv.com__promo-banners-mobi-mobile.webp"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/mobi-banner-desk-institucional-3.jpg",
           "mobile_img": "/img/uploads/mobi-banner-mobile-institucional-3.jpg",
           "link": "https://mobifans.com.br/popsockets",
@@ -31,10 +17,10 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/mobi-banner-desk-natal-1.jpg",
-          "link": "https://mobifans.com.br/capas",
-          "alt": "MobiSmart2021",
-          "mobile_img": "/img/uploads/mobi-banner-mobile-natal-1.jpg"
+          "img": "/img/uploads/mobi-banner-desk-natal-2.jpg",
+          "mobile_img": "/img/uploads/mobi-banner-mobile-natal-2.jpg",
+          "link": "https://mobifans.com.br/colecoes",
+          "alt": "NatalMobi2021"
         },
         {
           "start": "",
