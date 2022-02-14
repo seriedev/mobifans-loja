@@ -44,7 +44,28 @@
   "links_2": {
     "list_categories": true,
     "title": "Categorias",
-    "list": []
+    "list": [
+      {
+        "text": "Capas",
+        "url": "https://mobifans.com.br/capas"
+      },
+      {
+        "text": "Coleções",
+        "url": "https://mobifans.com.br/colecoes"
+      },
+      {
+        "text": "Películas",
+        "url": "https://mobifans.com.br/u_10011"
+      },
+      {
+        "text": "PopSockets",
+        "url": "https://mobifans.com.br/popsockets"
+      },
+      {
+        "text": "Acessórios",
+        "url": "https://mobifans.com.br/acessorios"
+      }
+    ]
   },
   "contacts": {
     "title": "Contato",
@@ -83,5 +104,5 @@
     "amex": true,
     "itau": false
   },
-  "credits": "Pulz Comércio de Importados Eireli - CNPJ: 06.051.394/0001-93 © 2021 - Todos os direitos reservados."
+  "credits": "Pulz Comércio de Importados Eireli - CNPJ: 06.051.394/0001-93 © 2022 - Todos os direitos reservados."
 }
