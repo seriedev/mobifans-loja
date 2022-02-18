@@ -11,8 +11,8 @@
 #cart-count {
   background: #000;
 }
-.top-bar a, .top-bar svg {
-  color: #fff
+.top-bar a, .top-bar svg, .footer address {
+  color: #fff !important
 }
 .top-bar .container-fluid .row {
   display: flex;
