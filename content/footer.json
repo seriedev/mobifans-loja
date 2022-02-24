@@ -46,12 +46,12 @@
     "title": "Categorias",
     "list": [
       {
-        "text": "Capas",
-        "url": "https://mobifans.com.br/capas"
+        "text": "Acessórios",
+        "url": "https://mobifans.com.br/acessorios"
       },
       {
-        "text": "Coleções",
-        "url": "https://mobifans.com.br/colecoes"
+        "text": "Capas",
+        "url": "https://mobifans.com.br/capas"
       },
       {
         "text": "Películas",
@@ -62,8 +62,8 @@
         "url": "https://mobifans.com.br/popsockets"
       },
       {
-        "text": "Acessórios",
-        "url": "https://mobifans.com.br/acessorios"
+        "text": "Coleções",
+        "url": "https://mobifans.com.br/colecoes"
       }
     ]
   },
