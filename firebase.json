@@ -1,6 +1,11 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/u_10011",
+        "destination": "/peliculas",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
