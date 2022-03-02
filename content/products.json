@@ -6,7 +6,17 @@
     },
     {
       "type": "product-block",
-      "enabled": true
+      "enabled": false,
+      "size_guide": {
+        "image": "/img/uploads/totalmente-transparente-png-fw.png",
+        "title": " "
+      }
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "product-description",
