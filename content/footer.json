@@ -38,6 +38,10 @@
       {
         "text": "Contato",
         "url": "/pages/contato"
+      },
+      {
+        "text": "Artistas e influenciadores",
+        "url": "pages/artistas-e-influenciadores"
       }
     ]
   },
