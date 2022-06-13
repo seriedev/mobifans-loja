@@ -152,7 +152,7 @@
     },
     {
       "type": "custom-html",
-      "html": "<script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n<div class=\"elfsight-app-9ec70729-9fec-4aaf-af54-49c1dd71d97a\"></div>"
+      "html": "    <script src=\"https://apps.elfsight.com/p/platform.js\" defer></script>\n    <div class=\"elfsight-app-05a4d021-2644-4518-bb65-d2c1084710dc\"></div>"
     },
     {
       "type": "custom-html",
