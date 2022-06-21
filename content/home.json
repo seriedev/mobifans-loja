@@ -56,6 +56,18 @@
       "full_width": false
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/kits-exclusivos-1-.png"
+        },
+        {
+          "img": "/img/uploads/kits-exclusivos.png",
+          "link": "/kits-exclusivos-mobifans"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
