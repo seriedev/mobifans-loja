@@ -57,11 +57,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/inserir-um-titulo.png"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",
