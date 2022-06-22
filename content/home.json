@@ -144,6 +144,13 @@
       "title": "PopSockets®, o Original chegou!"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "sort": "offers"
+    },
+    {
       "type": "custom-content",
       "markdown": "###    Siga-nos no Instagram! [@mobifans](https://www.instagram.com/mobifans/)"
     },
