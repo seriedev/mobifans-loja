@@ -56,6 +56,12 @@
       "full_width": false
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/inserir-um-titulo-1-.png",
+      "mobile_img": "/img/uploads/inserir-um-titulo-868-210-px-.png",
+      "link": "https://mobifans.com.br/search"
+    },
+    {
       "type": "banners-grid",
       "banners": []
     },
