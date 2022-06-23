@@ -82,6 +82,10 @@
       "link": "/capas-com-corrente"
     },
     {
+      "type": "banners-grid",
+      "banners": []
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 16,
