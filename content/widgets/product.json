@@ -3,10 +3,11 @@
   "active": true,
   "desktopOnly": false,
   "options": {
-    "buyText": "",
+    "buyText": "Adicionar ao carrinho",
     "buy": "",
     "strHasQuantitySelector": "_",
-    "lowQuantityToWarn": 12,
-    "maxVariationOptionsBtns": 6
+    "lowQuantityToWarn": 2,
+    "maxVariationOptionsBtns": 6,
+    "strHasPromotionTimer": "true"
   }
 }
