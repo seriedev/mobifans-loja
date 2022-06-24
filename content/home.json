@@ -65,7 +65,11 @@
       "type": "offers-timer",
       "max_hours": 1,
       "start": "2022-06-24T11:30:30.449Z",
-      "end": "2022-07-01T09:00:30.627Z"
+      "end": "2022-07-01T09:00:30.627Z",
+      "offers": [
+        "62b216adeb859112165e60da",
+        "62b4c531eb8591121662bb7c"
+      ]
     },
     {
       "type": "banners-grid",
