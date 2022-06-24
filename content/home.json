@@ -70,7 +70,7 @@
         "62b216adeb859112165e60da",
         "62b4c531eb8591121662bb7c"
       ],
-      "notes": "Ofertas relâmpago até 50%off, corre que ainda da tempo pra garantir a sua!🏃💨"
+      "notes": "Ofertas relâmpago até 50%off, corre que ainda da tempo pra garantir a sua!"
     },
     {
       "type": "collection-shelf",
@@ -87,17 +87,6 @@
       "collection_id": "615db96c28ace502ae9747c0:collections:Capas com corrente:/capas-com-corrente",
       "sort": "views",
       "link": "/capas-com-corrente"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/godaddystudiopage-0-22-.png",
-          "mobile_img": "/img/uploads/godaddystudiopage-0-23-.png",
-          "link": "https://mobifans.com.br/kits-exclusivos-mobifans",
-          "alt": "Kits Exclusivos Mobifans"
-        }
-      ]
     },
     {
       "type": "collection-shelf",
@@ -123,6 +112,17 @@
       "collection_id": "5ef1021d14ff772fde7aaa82:categories:Películas:/u_10011",
       "title": "Películas Especiais",
       "sort": "views"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/desk.png",
+          "mobile_img": "/img/uploads/mobile-1-.png",
+          "link": "https://mobifans.com.br/kits-exclusivos-mobifans",
+          "alt": "Kits Exclusivos Mobifans"
+        }
+      ]
     },
     {
       "type": "custom-content",
