@@ -73,17 +73,6 @@
       "notes": "Ofertas relâmpago até 50%off, corre que ainda da tempo pra garantir a sua!"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/godaddystudiopage-0-22-.png",
-          "mobile_img": "/img/uploads/godaddystudiopage-0-23-.png",
-          "link": "https://mobifans.com.br/kits-exclusivos-mobifans",
-          "alt": "Kits Exclusivos Mobifans"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
@@ -101,7 +90,14 @@
     },
     {
       "type": "banners-grid",
-      "banners": []
+      "banners": [
+        {
+          "img": "/img/uploads/godaddystudiopage-0-22-.png",
+          "mobile_img": "/img/uploads/godaddystudiopage-0-23-.png",
+          "link": "https://mobifans.com.br/kits-exclusivos-mobifans",
+          "alt": "Kits Exclusivos Mobifans"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
