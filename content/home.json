@@ -97,6 +97,17 @@
       "sort": "views"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/desk.png",
+          "mobile_img": "/img/uploads/mobile-1-.png",
+          "link": "https://mobifans.com.br/kits-exclusivos-mobifans",
+          "alt": "Kits Exclusivos Mobifans"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "60ca5077641ad82fcc2a2e9f:collections:Capas Exclusivas:/capas-e-peliculas-exclusivas",
@@ -112,17 +123,6 @@
       "collection_id": "5ef1021d14ff772fde7aaa82:categories:Películas:/u_10011",
       "title": "Películas Especiais",
       "sort": "views"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/desk.png",
-          "mobile_img": "/img/uploads/mobile-1-.png",
-          "link": "https://mobifans.com.br/kits-exclusivos-mobifans",
-          "alt": "Kits Exclusivos Mobifans"
-        }
-      ]
     },
     {
       "type": "custom-content",
