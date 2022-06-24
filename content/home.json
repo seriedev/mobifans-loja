@@ -56,16 +56,16 @@
       "full_width": false
     },
     {
-      "type": "offers-timer",
-      "max_hours": 1,
-      "start": "2022-06-24T11:30:30.449Z",
-      "end": "2022-07-01T09:00:30.627Z"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/inserir-um-titulo-1-.png",
       "mobile_img": "/img/uploads/inserir-um-titulo-868-210-px-.png",
       "link": "https://mobifans.com.br/search"
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 1,
+      "start": "2022-06-24T11:30:30.449Z",
+      "end": "2022-07-01T09:00:30.627Z"
     },
     {
       "type": "banners-grid",
