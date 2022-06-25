@@ -9,10 +9,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-promo-3-mobi-desk.webp",
-          "mobile_img": "/img/uploads/banner-promo-3-mobi-mobi.webp",
-          "link": "https://mobifans.com.br/promo-night-week-mobifans",
-          "alt": " "
+          "img": "/img/uploads/desk-promo-2-150.webp",
+          "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
+          "alt": "Acima de R$ 150 Frete Grátis Brasil"
         },
         {
           "start": "",
@@ -29,13 +28,6 @@
           "mobile_img": "/img/uploads/anyconv.com__mobi-banner-2_mobile.webp",
           "link": "/acessorios",
           "alt": "Acessórios para smartphone"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/desk-promo-2-150.webp",
-          "mobile_img": "/img/uploads/mobile-promo-2-150.webp",
-          "alt": "Acima de R$ 150 Frete Grátis Brasil"
         },
         {
           "start": "2022-02-10T16:51:22.567Z",
