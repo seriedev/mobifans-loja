@@ -11,7 +11,8 @@
           "end": "",
           "img": "/img/uploads/banner-promo-3-mobi-desk.webp",
           "mobile_img": "/img/uploads/banner-promo-3-mobi-mobi.webp",
-          "link": "https://mobifans.com.br/promo-night-week-mobifans"
+          "link": "https://mobifans.com.br/promo-night-week-mobifans",
+          "alt": " "
         },
         {
           "start": "",
