@@ -51,6 +51,12 @@
           "mobile_img": "/img/uploads/capas-correntes-ajustado.webp",
           "link": "/capas-com-corrente",
           "alt": "Capas para celular correntes"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-promo-3-mobi-desk.webp",
+          "mobile_img": "/img/uploads/banner-promo-3-mobi-mobi.webp"
         }
       ],
       "full_width": false
