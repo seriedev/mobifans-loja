@@ -1,6 +1,6 @@
 // Add your custom JavaScript for storefront pages here.
 function setTitleCategoryProductCard() {
-  let categoryTitle = $(".breadcrumb-item:nth-of-type(3)")
+  let categoryTitle = $(".page-title__head h1")
     .text()
     .trim();
 
